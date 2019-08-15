@@ -1,0 +1,14 @@
+﻿生成启动时间为 2018/12/5 13:29:59。
+     1>项目“C:\Users\du\Desktop\2048\2048\2048.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         E:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt 2048.cpp
+         2048.cpp
+     1>c:\users\du\desktop\2048\2048\2048.cpp(355): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+       Link:
+         E:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\du\Desktop\2048\Debug\2048_杜利君.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\du\Desktop\2048\Debug\2048_杜利君.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\du\Desktop\2048\Debug\2048_杜利君.lib" /MACHINE:X86 Debug\2048.obj
+         2048.vcxproj -> C:\Users\du\Desktop\2048\Debug\2048_杜利君.exe
+     1>已完成生成项目“C:\Users\du\Desktop\2048\2048\2048.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.66
